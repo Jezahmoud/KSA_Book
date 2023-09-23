@@ -1,0 +1,31 @@
+
+--- 
+title: "المملكة العربية السعودية"
+
+author: "جزاء اللهيبي //
+jeza_hmoud  &copy;"
+output: 
+  bookdown::gitbook
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# مقدمة{-}
+
+<img src="/Users/jezaalharbi/Documents/Saudi_NAtional_Day 93/images/A4.jpg" alt="A4" style="width:50%;">
+
+
+يقدم هذا المقال لمحة بسيطة عن المملكة العربية السعودية والاحتفال باليوم الوطني، بالإضافة إلى تقديم نظرة عامة على حياة الملك عبدالعزيز.
+
+
+
+
+
+
